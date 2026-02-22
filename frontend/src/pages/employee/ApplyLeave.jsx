@@ -230,7 +230,7 @@ const ApplyLeave = () => {
                 type="submit"
                 loading={loading}
                 disabled={totalDays === 0 || !sufficientBalance}
-                className="w-full justify-center gap-2"
+                className="w-full justify-center gap-2 cursor-pointer"
                 size="lg"
               >
                 <CalendarPlus size={20} />
