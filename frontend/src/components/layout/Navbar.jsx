@@ -54,7 +54,7 @@ const Navbar = ({ onMenuClick }) => {
           <button 
             onClick={handleLogout}
             className="flex items-center justify-center gap-2 px-3 sm:px-4 py-2 bg-red-500/10 hover:bg-red-500/20 text-red-600 
-                     rounded-lg transition-colors font-medium text-sm border border-red-200/50 hover:border-red-300/50"
+                     rounded-lg transition-colors font-medium text-sm border border-red-200/50 hover:border-red-300/50 cursor-pointer"
             title="Logout"
           >
             <LogOut size={18} />
