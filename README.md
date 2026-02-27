@@ -25,7 +25,7 @@ The application follows proper authentication, role-based access control, and cl
 https://github.com/Sanjeetkumar61/Fixl---HR-System  
 
 ## Live Application URL
-https://github.com/Sanjeetkumar61/Fixl---HR-System  
+https://fixl-hr-system-ar6v.vercel.app/  
 
 ## Backend API URL
 https://fixl-hr-system.vercel.app/  
